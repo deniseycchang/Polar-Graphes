@@ -3,7 +3,8 @@
 Sketch polar graphes using Python.
 
 ## Files
-- `Polar_graph.py`: Sketch polar graphes
+- `Polar_graph.py`: Sketch polar graphes.
+- `polar.png`: The output, polar graphes.
 
 ## Tools
 * Python: WebScraping, data type conversion.
