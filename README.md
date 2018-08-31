@@ -7,7 +7,7 @@ Sketch polar graphes using Python.
 - `polar.png`: The output, polar graphes.
 
 ## Tools
-* Python: WebScraping, data type conversion.
+* Python: Sketching graphes.
 * MatPlotLib: Visualization.
 
 ## Note
