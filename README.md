@@ -12,6 +12,7 @@ Sketch polar graphes using Python.
 
 ## Functions
 (I) r = sin(3x)
+
 (II) r = sin(4x)
 (III) r = -2 * cos(x)
 (IV) r = sin(x/2)
